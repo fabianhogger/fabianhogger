@@ -4,7 +4,7 @@
 
 I'm a Software Engineer with a passion for building robust data infrastructure and exploring diverse fields of software development. Currently working as a Data Engineer at SDG, I specialize in cloud-based data pipelines, ETL architecture, and event-driven systems for enterprise clients in the automotive industry.
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages**
 - Python | Go | SQL | Bash | C++
@@ -22,7 +22,7 @@ I'm a Software Engineer with a passion for building robust data infrastructure a
 **Visualization & Analysis**
 - Power BI | Tableau
 
-## 💼 Professional Experience
+##  Professional Experience
 
 **Data Engineer @ SDG Milano** *(July 2023 - Present)*
 
@@ -39,7 +39,7 @@ Working on high-impact projects for major automotive clients:
 - Modernized legacy Ruby processes by refactoring into Python
 - Developed reporting processes and compliance monitoring integrations
 
-## 🚀 Projects I'm Working On
+## Projects
 
 ### Drone-to-Drone Laser Communication Simulation
 Exploring autonomous systems through Gazebo + ArduPilot simulation, developing a proof-of-concept for drone laser communication networks. Sparked by a recent hackathon experience.
@@ -53,13 +53,13 @@ Python automation that monitors government websites for new legislation, generat
 ### News Bias Analyzer
 Django web application performing sentiment analysis on news articles, recommending related content, and visualizing media organization bias patterns on public figures.
 
-## 🎓 Education
+## Education
 
 **BS in Computer Science** - Ionian University (2016-2021)
 - GPA: 7.89/10.0
 - Focus: Computer Architecture, Databases, Cryptography, Machine Learning
 
-## 📜 Certifications
+## Certifications
 
 - AWS Solution Architect 
 - AWS Cloud Practitioner
