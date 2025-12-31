@@ -7,20 +7,12 @@ I'm a Software Engineer with a passion for building robust data infrastructure a
 ## Tech Stack
 
 **Languages**
-- Python | Go | SQL | Bash | C++
+- Python | Go | SQL | Bash 
 
-**Data Engineering**
+**Tools**
 - AWS Ecosystem (Glue, Athena, Lambda, S3)
 - Apache Spark
 - SQL Server, PostgreSQL, MySQL
-
-**Cloud**
-- AWS Solution Architect Certified
-- AWS Cloud Practitioner Certified
-- Git, AWS CodeCommit, Bitbucket
-
-**Visualization & Analysis**
-- Power BI | Tableau
 
 ##  Professional Experience
 
