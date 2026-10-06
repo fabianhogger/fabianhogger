@@ -7,12 +7,15 @@ I'm a Software Engineer with a passion for building robust data infrastructure a
 ## Tech Stack
 
 **Languages**
-- Python | Go | SQL | Bash 
+- Python | Go | SQL | Bash | Java
 
 **Tools**
 - AWS Ecosystem (Glue, Athena, Lambda, S3)
 - Apache Spark
 - SQL Server, PostgreSQL, MySQL
+- Spring
+- Terraform/ Cloudformation
+  
 
 ##  Professional Experience
 
