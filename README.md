@@ -1,8 +1,8 @@
 # Hi there, I'm Fabian Högger 👋
 
-**Software & Data Engineer** based in Milano, Italy
+**Software Engineer** based in Milano, Italy
 
-I'm a Software Engineer with a passion for building robust data infrastructure and exploring diverse fields of software development. Currently working as a Data Engineer at SDG, I specialize in cloud-based data pipelines, ETL architecture, and event-driven systems for enterprise clients in the automotive industry.
+I'm a Software Engineer with a passion for building robust data infrastructure and exploring diverse fields of software development. Currently working as a Cloud Developer at the Cloud Architecture team in SDG, I specialize in cloud-based data pipelines, ETL architecture, and event-driven systems for enterprise clients in the automotive industry.
 
 ## Tech Stack
 
@@ -16,7 +16,14 @@ I'm a Software Engineer with a passion for building robust data infrastructure a
 
 ##  Professional Experience
 
-**Data Engineer @ SDG Milano** *(July 2023 - Present)*
+**Cloud Developer @ SDG Milano** *(August 2025 - Present)*
+
+Working on diverse projects:
+- FullStack Web App development with Angular SPA as frontend and Java Springboot BE
+- Data related services using serverless architectures
+- Aws Batch Jobs using primarly Java
+
+**Data Engineer @ SDG Milano** *(July 2023 - August 2025)*
 
 Working on high-impact projects for major automotive clients:
 - Architected and built Master Data Management (MDM) systems with cross-source data integration
