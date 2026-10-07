@@ -43,6 +43,19 @@ Working on high-impact projects for major automotive clients:
 
 ## Projects
 
+### myrssfeed
+PyPi package that prefilters customizable list of rss feeds based on user prompt (requires anthropic api key)
+
+### game_tips
+Ubuntu lockscreen stylized as skyrim styled loading screen with tech tips using rss feed
+
+### LLM-Powered RPG
+A 2D game built with Go and raylib that uses Ollama models to generate dynamic NPC dialogue, creating unique conversational experiences in gameplay.
+
+### LLM-Powered RPG
+A 2D game built with Go and raylib that uses Ollama models to generate dynamic NPC dialogue, creating unique conversational experiences in gameplay.
+
+
 ### Drone-to-Drone Laser Communication Simulation
 Exploring autonomous systems through Gazebo + ArduPilot simulation, developing a proof-of-concept for drone laser communication networks. Sparked by a recent hackathon experience.
 
