@@ -49,8 +49,8 @@ PyPi package that prefilters customizable list of rss feeds based on user prompt
 ### game_tips
 Ubuntu lockscreen stylized as skyrim styled loading screen with tech tips using rss feed
 
-### LLM-Powered RPG
-A 2D game built with Go and raylib that uses Ollama models to generate dynamic NPC dialogue, creating unique conversational experiences in gameplay.
+### OASA MCP
+MCP server for Athens public transit API
 
 ### LLM-Powered RPG
 A 2D game built with Go and raylib that uses Ollama models to generate dynamic NPC dialogue, creating unique conversational experiences in gameplay.
